@@ -2,4 +2,4 @@
 
 ### 仿长虹网站
 
-### 所用技术:js,jquery,bootstrap,php
+### 所用技术:js,jquery,bootstrap,php,mysql
